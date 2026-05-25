@@ -17,4 +17,4 @@ The project is structured into modular components mapping out the data pipelines
 * `DCC_model/` – covariance predictions model via DCC-GARCH.
 * `fig/` – Exported visualization plots (e.g., cumulative returns comparison, efficient frontiers, asset allocation weights over time).
 * `Portfolio_data.xlsx` – The primary structured financial dataset containing historical asset prices/returns and required features.
-
+* `Portfolio_sharp.xlsx` – Monthly comparison of benchmark, HR+DCC-GARCH, and XGB+DCC-GARCH portfolio strategies using returns, volatility, and Sharpe ratio metrics
